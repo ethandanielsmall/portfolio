@@ -27,7 +27,10 @@
   "dependencies": {
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.3",
+    "git": "^0.1.5",
     "jquery": "^3.6.3",
+    "node": "^21.1.0",
+    "node.js": "^0.0.1-security",
     "popper.js": "^1.16.1",
     "vanilla-tilt": "^1.8.0"
   }

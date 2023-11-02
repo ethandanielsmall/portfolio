@@ -1,23 +1,23 @@
-## Ethan Daniel Small's Portfolio!
+# Ethan Daniel Small's Portfolio!
 
-# Description
+## Description
 
 This application is a website for Ethan "Daniel" Small's tech-based portfolio.
 
-# Git Hub Repository
+## Git Hub Repository
 
 https://github.com/ethandanielsmall/portfolio
 
-# Deployed Application
+## Deployed Application
 
 https://ethandanielsmall.netlify.app/
 
-# Credits
+## Credits
 
 Base code: cobiwave - https://github.com/cobiwave/simplefolio
 Color pallete: clove_86 - https://www.color-hex.com/color-palette/1022858
 
-# TODOS
+## TODOS
 - Finish readme (am i missing anything?)
 - Take and add pic of self to bio
 - Choose which projects to use in the things (and work on them to make them better/more appealing)

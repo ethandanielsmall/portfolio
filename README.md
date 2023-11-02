@@ -22,4 +22,4 @@ Color pallete: clove_86 - https://www.color-hex.com/color-palette/1022858
 - Take and add pic of self to bio
 - Choose which projects to use in the things (and work on them to make them better/more appealing)
 - make the resume.pdf not be so red and scary. cool hip green and less of it.
-- make the animation on the project pictures Not do that lol
+- make the animation on the project pictures Not do that lol (look up and get rid of everything 'tilt')

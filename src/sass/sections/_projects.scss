@@ -1,6 +1,6 @@
 #projects {
   background-color: $light-green;
-  color: $dark-blue-text;
+  color: $dark-green;
   margin-top: -10rem;
   padding-top: 15rem;
 
@@ -68,7 +68,7 @@
           0.5s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
 
         @include respond(phone) {
-          border: 1px solid $light-grey;
+          border: 1px solid $sage-green;
           box-shadow: none;
           margin-bottom: 3.2rem;
         }

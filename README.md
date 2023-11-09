@@ -21,6 +21,7 @@ Color pallete: clove_86 - https://www.color-hex.com/color-palette/1022858
 - Finish readme (am i missing anything?)
 - Take and add pic of self to bio
 - Choose which projects to use in the things (password generator, weather app (make it look pretty?), javascript quiz)
+- figure out icloud image
 
 not necessary but will be nice once everything else is done!
 - make the resume.pdf not be so red and scary. cool hip green and less of it.
